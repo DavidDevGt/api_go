@@ -1,6 +1,6 @@
-# API en Go para Sistema de Tickets de buses
+# API con Go y MySQL
 
-# TODO: Terminar el proyecto, este readme es el proyecto finalizado
+- TODO: Terminar el proyecto, este readme es el proyecto finalizado
 
 Este proyecto es una API REST desarrollada en Go, diseñada para interactuar con la base de datos `ticket_sys_db`, la cual gestiona un sistema de tickets. La base de datos incluye tablas para departamentos, roles, usuarios, clientes, rutas, viajes de clientes y tickets.
 
