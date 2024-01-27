@@ -1,4 +1,4 @@
-module api_go
+module ticket_sys_api
 
 go 1.21.6
 
