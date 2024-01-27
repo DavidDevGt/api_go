@@ -7,7 +7,7 @@ import (
 )
 
 func ConectarDB() (*sql.DB, error) {
-	db, err := sql.Open("mysql", "usuario:contraseña@tcp(localhost)/ticket_sys_db")
+	db, err := sql.Open("mysql", "root:@tcp(localhost)/ticket_sys_db")
 	if err != nil {
 		return nil, err
 	}
